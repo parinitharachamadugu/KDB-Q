@@ -14,4 +14,4 @@ Fibonacci using q is a single liner
 
 ![xyz](img/01.jpg)
 
-
+<img scr = "img/01.jpg">
